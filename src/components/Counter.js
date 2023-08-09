@@ -18,4 +18,4 @@ function mapStateProps(state){ //state reducerdan geliyor
 }
 
 export default connect(mapStateProps)(Counter);
-// counter ın proplarına state i bağla demek
+// Counter ın proplarına state i bağla demek
